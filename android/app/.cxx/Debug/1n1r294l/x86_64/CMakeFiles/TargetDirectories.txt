@@ -1,0 +1,2 @@
+C:/Users/mahran/Desktop/tw/primeprof/android/app/.cxx/Debug/1n1r294l/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/mahran/Desktop/tw/primeprof/android/app/.cxx/Debug/1n1r294l/x86_64/CMakeFiles/rebuild_cache.dir

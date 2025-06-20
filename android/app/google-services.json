@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "105260251444",
+    "project_id": "primeprofs-758dd",
+    "storage_bucket": "primeprofs-758dd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105260251444:android:7c5d896efd0a43c8638d61",
+        "android_client_info": {
+          "package_name": "com.example.primeprof"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiX8UwGEY3KRH0c4InctdGx_VHRIVUZ7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

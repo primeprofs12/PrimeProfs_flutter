@@ -1,0 +1,2 @@
+C:/Users/mahran/Downloads/primeprof/android/app/.cxx/RelWithDebInfo/6c34682w/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/mahran/Downloads/primeprof/android/app/.cxx/RelWithDebInfo/6c34682w/arm64-v8a/CMakeFiles/rebuild_cache.dir

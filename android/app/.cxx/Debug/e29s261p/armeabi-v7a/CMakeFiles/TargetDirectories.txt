@@ -1,0 +1,2 @@
+C:/Users/mahran/Desktop/New folder/primeprof/android/app/.cxx/Debug/e29s261p/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/mahran/Desktop/New folder/primeprof/android/app/.cxx/Debug/e29s261p/armeabi-v7a/CMakeFiles/rebuild_cache.dir
